@@ -1,2 +1,2 @@
-this is a one .txt
-i am changed now
+this is  1.txt
+i am changed naw
